@@ -1,0 +1,447 @@
+"usageInfo": [
+          {
+            "openTime": "23:31:28",
+            "closeTime": "23:31:39",
+            "usageTime": 11
+          },
+          {
+            "openTime": "23:29:59",
+            "closeTime": "23:31:29",
+            "usageTime": 90
+          },
+          {
+            "openTime": "23:27:02",
+            "closeTime": "23:29:22",
+            "usageTime": 140
+          },
+          {
+            "openTime": "23:26:55",
+            "closeTime": "23:27:05",
+            "usageTime": 10
+          },
+          {
+            "openTime": "23:26:50",
+            "closeTime": "23:26:51",
+            "usageTime": 1
+          },
+          {
+            "openTime": "23:26:41",
+            "closeTime": "23:26:51",
+            "usageTime": 10
+          },
+          {
+            "openTime": "23:24:31",
+            "closeTime": "23:26:41",
+            "usageTime": 130
+          },
+          {
+            "openTime": "23:24:30",
+            "closeTime": "23:24:40",
+            "usageTime": 10
+          },
+          {
+            "openTime": "23:23:45",
+            "closeTime": "23:23:51",
+            "usageTime": 6
+          },
+          {
+            "openTime": "23:23:44",
+            "closeTime": "23:23:45",
+            "usageTime": 1
+          },
+          {
+            "openTime": "23:23:41",
+            "closeTime": "23:23:51",
+            "usageTime": 10
+          },
+          {
+            "openTime": "23:18:48",
+            "closeTime": "23:18:57",
+            "usageTime": 9
+          },
+          {
+            "openTime": "23:18:47",
+            "closeTime": "23:18:48",
+            "usageTime": 1
+          },
+          {
+            "openTime": "23:18:29",
+            "closeTime": "23:18:57",
+            "usageTime": 28
+          },
+          {
+            "openTime": "23:18:23",
+            "closeTime": "23:18:33",
+            "usageTime": 10
+          },
+          {
+            "openTime": "23:18:18",
+            "closeTime": "23:18:28",
+            "usageTime": 10
+          },
+          {
+            "openTime": "23:17:53",
+            "closeTime": "23:18:29",
+            "usageTime": 36
+          },
+          {
+            "openTime": "23:17:41",
+            "closeTime": "23:18:03",
+            "usageTime": 22
+          },
+          {
+            "openTime": "23:17:29",
+            "closeTime": "23:17:51",
+            "usageTime": 22
+          },
+          {
+            "openTime": "23:15:13",
+            "closeTime": "23:17:39",
+            "usageTime": 146
+          },
+          {
+            "openTime": "23:13:53",
+            "closeTime": "23:15:23",
+            "usageTime": 90
+          },
+          {
+            "openTime": "23:13:34",
+            "closeTime": "23:13:54",
+            "usageTime": 20
+          },
+          {
+            "openTime": "22:37:07",
+            "closeTime": "22:37:09",
+            "usageTime": 2
+          },
+          {
+            "openTime": "21:56:54",
+            "closeTime": "21:57:02",
+            "usageTime": 8
+          },
+          {
+            "openTime": "19:37:59",
+            "closeTime": "19:38:02",
+            "usageTime": 3
+          },
+          {
+            "openTime": "19:33:43",
+            "closeTime": "19:37:59",
+            "usageTime": 256
+          },
+          {
+            "openTime": "19:32:36",
+            "closeTime": "19:33:40",
+            "usageTime": 64
+          },
+          {
+            "openTime": "19:31:12",
+            "closeTime": "19:32:14",
+            "usageTime": 62
+          },
+          {
+            "openTime": "19:30:09",
+            "closeTime": "19:30:54",
+            "usageTime": 45
+          },
+          {
+            "openTime": "19:28:13",
+            "closeTime": "19:29:48",
+            "usageTime": 95
+          },
+          {
+            "openTime": "19:22:55",
+            "closeTime": "19:27:23",
+            "usageTime": 268
+          },
+          {
+            "openTime": "19:19:33",
+            "closeTime": "19:22:45",
+            "usageTime": 192
+          },
+          {
+            "openTime": "19:19:27",
+            "closeTime": "19:19:30",
+            "usageTime": 3
+          },
+          {
+            "openTime": "19:18:26",
+            "closeTime": "19:18:54",
+            "usageTime": 28
+          },
+          {
+            "openTime": "19:05:03",
+            "closeTime": "19:17:52",
+            "usageTime": 769
+          },
+          {
+            "openTime": "18:55:33",
+            "closeTime": "19:00:00",
+            "usageTime": 267
+          },
+          {
+            "openTime": "18:55:25",
+            "closeTime": "18:55:35",
+            "usageTime": 10
+          },
+          {
+            "openTime": "18:54:13",
+            "closeTime": "18:55:25",
+            "usageTime": 72
+          },
+          {
+            "openTime": "18:22:56",
+            "closeTime": "18:23:09",
+            "usageTime": 13
+          },
+          {
+            "openTime": "18:10:13",
+            "closeTime": "18:21:23",
+            "usageTime": 670
+          },
+          {
+            "openTime": "18:10:04",
+            "closeTime": "18:10:14",
+            "usageTime": 10
+          },
+          {
+            "openTime": "18:08:43",
+            "closeTime": "18:10:04",
+            "usageTime": 81
+          },
+          {
+            "openTime": "18:08:25",
+            "closeTime": "18:08:37",
+            "usageTime": 12
+          },
+          {
+            "openTime": "18:06:30",
+            "closeTime": "18:08:09",
+            "usageTime": 99
+          },
+          {
+            "openTime": "18:06:15",
+            "closeTime": "18:06:17",
+            "usageTime": 2
+          },
+          {
+            "openTime": "18:06:04",
+            "closeTime": "18:06:12",
+            "usageTime": 8
+          },
+          {
+            "openTime": "13:23:34",
+            "closeTime": "13:23:37",
+            "usageTime": 3
+          },
+          {
+            "openTime": "12:54:50",
+            "closeTime": "12:55:25",
+            "usageTime": 35
+          },
+          {
+            "openTime": "12:54:46",
+            "closeTime": "12:54:56",
+            "usageTime": 10
+          },
+          {
+            "openTime": "12:53:17",
+            "closeTime": "12:54:50",
+            "usageTime": 93
+          },
+          {
+            "openTime": "12:48:51",
+            "closeTime": "12:49:12",
+            "usageTime": 21
+          },
+          {
+            "openTime": "12:48:16",
+            "closeTime": "12:48:36",
+            "usageTime": 20
+          },
+          {
+            "openTime": "12:47:52",
+            "closeTime": "12:48:12",
+            "usageTime": 20
+          },
+          {
+            "openTime": "12:47:16",
+            "closeTime": "12:47:51",
+            "usageTime": 35
+          },
+          {
+            "openTime": "12:45:12",
+            "closeTime": "12:46:48",
+            "usageTime": 96
+          },
+          {
+            "openTime": "12:44:42",
+            "closeTime": "12:44:48",
+            "usageTime": 6
+          },
+          {
+            "openTime": "12:38:24",
+            "closeTime": "12:39:02",
+            "usageTime": 38
+          },
+          {
+            "openTime": "12:37:17",
+            "closeTime": "12:37:19",
+            "usageTime": 2
+          },
+          {
+            "openTime": "12:34:54",
+            "closeTime": "12:36:49",
+            "usageTime": 115
+          },
+          {
+            "openTime": "12:33:03",
+            "closeTime": "12:33:14",
+            "usageTime": 11
+          },
+          {
+            "openTime": "12:24:17",
+            "closeTime": "12:24:35",
+            "usageTime": 18
+          },
+          {
+            "openTime": "12:23:30",
+            "closeTime": "12:23:50",
+            "usageTime": 20
+          },
+          {
+            "openTime": "12:22:19",
+            "closeTime": "12:22:59",
+            "usageTime": 40
+          },
+          {
+            "openTime": "12:22:05",
+            "closeTime": "12:22:11",
+            "usageTime": 6
+          },
+          {
+            "openTime": "12:21:48",
+            "closeTime": "12:22:05",
+            "usageTime": 17
+          },
+          {
+            "openTime": "12:21:24",
+            "closeTime": "12:21:41",
+            "usageTime": 17
+          },
+          {
+            "openTime": "12:18:26",
+            "closeTime": "12:21:09",
+            "usageTime": 163
+          },
+          {
+            "openTime": "12:06:30",
+            "closeTime": "12:18:17",
+            "usageTime": 707
+          },
+          {
+            "openTime": "08:53:12",
+            "closeTime": "08:53:17",
+            "usageTime": 5
+          },
+          {
+            "openTime": "08:41:15",
+            "closeTime": "08:42:37",
+            "usageTime": 82
+          },
+          {
+            "openTime": "08:38:19",
+            "closeTime": "08:40:42",
+            "usageTime": 143
+          },
+          {
+            "openTime": "08:32:45",
+            "closeTime": "08:36:41",
+            "usageTime": 236
+          },
+          {
+            "openTime": "08:25:55",
+            "closeTime": "08:30:46",
+            "usageTime": 291
+          },
+          {
+            "openTime": "08:24:18",
+            "closeTime": "08:24:20",
+            "usageTime": 2
+          },
+          {
+            "openTime": "07:56:38",
+            "closeTime": "08:05:51",
+            "usageTime": 553
+          },
+          {
+            "openTime": "06:42:57",
+            "closeTime": "06:42:58",
+            "usageTime": 1
+          },
+          {
+            "openTime": "06:42:54",
+            "closeTime": "06:42:56",
+            "usageTime": 2
+          },
+          {
+            "openTime": "06:42:52",
+            "closeTime": "06:42:53",
+            "usageTime": 1
+          },
+          {
+            "openTime": "06:42:50",
+            "closeTime": "06:42:51",
+            "usageTime": 1
+          },
+          {
+            "openTime": "06:42:47",
+            "closeTime": "06:42:47",
+            "usageTime": 0
+          },
+          {
+            "openTime": "06:42:46",
+            "closeTime": "06:42:47",
+            "usageTime": 1
+          },
+          {
+            "openTime": "06:42:23",
+            "closeTime": "06:42:28",
+            "usageTime": 5
+          },
+          {
+            "openTime": "06:41:54",
+            "closeTime": "06:42:15",
+            "usageTime": 21
+          },
+          {
+            "openTime": "06:38:57",
+            "closeTime": "06:41:25",
+            "usageTime": 148
+          },
+          {
+            "openTime": "06:37:12",
+            "closeTime": "06:37:16",
+            "usageTime": 4
+          },
+          {
+            "openTime": "06:36:25",
+            "closeTime": "06:36:36",
+            "usageTime": 11
+          },
+          {
+            "openTime": "06:35:56",
+            "closeTime": "06:36:11",
+            "usageTime": 15
+          },
+          {
+            "openTime": "06:32:29",
+            "closeTime": "06:33:35",
+            "usageTime": 66
+          },
+          {
+            "openTime": "00:00:00",
+            "closeTime": "00:05:26",
+            "usageTime": 326
+          }
+        ]
